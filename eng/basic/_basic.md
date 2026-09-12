@@ -1,0 +1,25 @@
+# English Basics
+
+Here are the topics to cover the basics of English language.
+
+- [Alphabets](./01_alphabets.md)
+- [Phonetics](./02_phonetics.md)
+- [Parts of Speech](./03_epos.md)
+- [Sentence Structure](./04_sentence_structure.md)
+- [Idioms and Fixed Expressions](./05_idioms.md)
+- [Pronouns](./06_pronouns.md)
+- [Interjections](./07_interjections.md)
+- [Prepositions and Conjunctions](./08_prepositions_conjunctions.md)
+- [Nouns](./09_nouns.md)
+- [Adjectives](./10_adjectives.md)
+- [Adverbs](./11_adverbs.md)
+- [Verbs Overview](./12_verbs_overview.md)
+- [Verb Forms](./13_verb_forms.md)
+- [Tenses](./14_tenses.md)
+- [Voice](./15_voice.md)
+- [Modal Verbs](./16_modal_verbs.md)
+- [Mood and Conditionals](./17_mood_and_conditionals.md)
+- [Non-finite Verbs](./18_non_finite_verbs.md)
+- [Phrasal Verbs](./19_phrasal_verbs.md)
+- [Reported Speech](./20_reported_speech.md)
+- [Basic Salutations](./basic_salutations.md)
