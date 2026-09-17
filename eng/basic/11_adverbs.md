@@ -45,6 +45,20 @@ Note: not every "-ly" word is an adverb (e.g. "friendly" is an adjective), and n
 |---|---|
 | very, quite, too, almost, extremely | It's **too** hot today. |
 
+## Word order with frequency and certainty adverbs
+
+Mid-position adverbs — frequency (**always, usually, often, sometimes, rarely, never**) and certainty (**probably, certainly, definitely**) — follow a predictable slot relative to the verb, based on how many words the verb phrase has:
+
+| Verb shape | Adverb position | Example |
+|---|---|---|
+| Single-word main verb (not "be") | **before** the verb | She **usually** walks to work. |
+| Single-word "be" | **after** "be" *(exception)* | She **is usually** happy. *(not "she usually is happy")* |
+| Compound verb (auxiliary + main verb) | **after the first auxiliary** | She **has always loved** music. He **will never forget**. |
+
+This rule is specific to mid-position adverbs. Manner, place, and most time adverbs (**carefully, there, soon**) aren't governed by it — they normally go at the end of the clause regardless of the verb's shape.
+
+- Sentence: She **has never carefully** read the instructions **before**. *(never = mid-position, after the auxiliary; before = time adverb, end of clause)*
+
 ## Interrogative and relative adverbs
 
 The same small set of words — **when, where, why, how** — can play two different roles, much like the adjective/pronoun pairs covered in [Adjectives](./10_adjectives.md#other-adjective-types-cross-links):
