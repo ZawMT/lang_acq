@@ -22,4 +22,4 @@ Here are the topics to cover the basics of English language.
 - [Non-finite Verbs](./18_non_finite_verbs.md)
 - [Phrasal Verbs](./19_phrasal_verbs.md)
 - [Reported Speech](./20_reported_speech.md)
-- [Basic Salutations](./basic_salutations.md)
+- [Basic Salutations](./21_basic_salutations.md)
