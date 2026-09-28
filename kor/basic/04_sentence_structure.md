@@ -1,18 +1,16 @@
 # Sentence Structure (문장 구조)
 
-A Korean sentence is built the way English and French sentences are: words combine into phrases, phrases into clauses, clauses into a sentence. What changes is the **order**. Korean puts the **predicate (verb or adjective) last**, and particles on the end of each noun tell you what role it plays.
+ In Korean, words combine into phrases, phrases into clauses, clauses into a sentence. Korean puts the **predicate (verb or adjective) last**, and particles on the end of each noun tell you what role it plays.
 
-| | Order | Example |
-|---|---|---|
-| English | Subject – Verb – Object | I **eat** an apple. |
-| Korean | Subject – Object – **Verb** | 저는 사과를 **먹어요**. |
+- Basic order: **Subject – Object – Verb**
+- Sentence: 저는 사과를 **먹어요**. (I eat an apple.)
 
 Grammar terms you'll meet in Korean textbooks:
 
-| English | Korean | Careful |
+| Term | Korean | Careful |
 |---|---|---|
 | Word | **단어** | Particles count as separate 단어 in school grammar, even though they're written attached |
-| "Spacing unit" | **어절** | No English equivalent: a word + its particles/endings, written between spaces |
+| "Spacing unit" | **어절** | A word + its particles/endings, written between spaces |
 | Phrase | **구** | 명사구 (noun phrase), 동사구 (verb phrase)... |
 | Clause | **절** | |
 | Sentence | **문장** | |
@@ -56,15 +54,15 @@ Korean school grammar labels every part of a sentence by its **job**. Particles 
 
 | Component | Job | Usual marker | Example |
 |---|---|---|---|
-| **주어** (subject) | who/what does or is | 이/가, 은/는, 께서 | **민수가** 왔어요. |
-| **서술어** (predicate) | the action, state, or "is" | conjugated ending | 민수가 **왔어요**. |
-| **목적어** (object) | what the action is done to | 을/를 | 저는 **커피를** 마셔요. |
-| **보어** (complement) | what something becomes / is not | 이/가 + 되다 or 아니다 | 물이 **얼음이** 됐어요. |
-| **관형어** (noun modifier) | describes a noun | 관형사, -(으)ㄴ/-는, 의 | **새** 차, **예쁜** 꽃, **친구의** 책 |
-| **부사어** (adverbial) | how/when/where/why | 부사, 에, 에서, (으)로... | **빨리** 가요. **학교에** 가요. |
-| **독립어** (independent) | stands outside the sentence | 감탄사, name + 아/야 | **네**, 알겠어요. **민수야**, 가자! |
+| **주어** (subject) | who/what does or is | 이/가, 은/는, 께서 | **민수가** 왔어요. (Minsu came.) |
+| **서술어** (predicate) | the action, state, or "is" | conjugated ending | 민수가 **왔어요**. (Minsu came.) |
+| **목적어** (object) | what the action is done to | 을/를 | 저는 **커피를** 마셔요. (I drink coffee.) |
+| **보어** (complement) | what something becomes / is not | 이/가 + 되다 or 아니다 | 물이 **얼음이** 됐어요. (The water became ice.) |
+| **관형어** (noun modifier) | describes a noun | 관형사, -(으)ㄴ/-는, 의 | **새** 차 (a new car), **예쁜** 꽃 (a pretty flower), **친구의** 책 (a friend's book) |
+| **부사어** (adverbial) | how/when/where/why | 부사, 에, 에서, (으)로... | **빨리** 가요. (Go quickly.) **학교에** 가요. (I go to school.) |
+| **독립어** (independent) | stands outside the sentence | 감탄사, name + 아/야 | **네**, 알겠어요. (Yes, I understand.) **민수야**, 가자! (Minsu, let's go!) |
 
-**Trap:** 보어 is narrower than English "complement". In Korean school grammar it's **only** the noun + 이/가 before **되다** (to become) and **아니다** (to not be):
+**Trap:** 보어 is a narrow category. In Korean school grammar it's **only** the noun + 이/가 before **되다** (to become) and **아니다** (to not be):
 
 - 저는 **의사가** 되고 싶어요. (I want to become a doctor.)
 - 저는 **학생이** 아니에요. (I'm not a student.)
@@ -88,21 +86,19 @@ In casual speech people sometimes tack something on after the predicate as an af
 
 ### Modifiers come first
 
-Korean is consistently **head-last**: whatever describes something comes **before** it. English flips this in half the cases.
+Korean is consistently **head-last**: whatever describes something comes **before** it, and particles come **after** the noun they mark.
 
-| What | English | Korean |
-|---|---|---|
-| Relative clause + noun | the friend **who came from Korea** | **한국에서 온** 친구 |
-| Noun + "preposition" | **to** school | 학교**에** (particle after) |
-| Possessor + noun | the book **of my friend** | **친구의** 책 |
-| Subordinate + main clause | I stayed home **because it rained** | **비가 와서** 집에 있었어요 |
-| Adverb + verb | (quickly) go (quickly) | **빨리** 가요 |
-
-If you're translating from English, a good habit is to read the English **backwards**: "the book [that I bought yesterday]" → [어제 산] 책.
+| Pattern | Example |
+|---|---|
+| Modifying clause + noun | **한국에서 온** 친구 (a friend who came from Korea) |
+| Noun + particle | 학교**에** (to school) |
+| Possessor + noun | **친구의** 책 (my friend's book) |
+| Subordinate + main clause | **비가 와서** 집에 있었어요 (Because it rained, I stayed home.) |
+| Adverb + predicate | **빨리** 가요 (Go quickly.) |
 
 ### Questions don't change the order
 
-There's no inversion like English "Are you...?" or French "Est-elle...?". A question has the **same order** as the statement; only the ending (and intonation) changes. Question words stay where the answer would go:
+A question has the **same order** as the statement; only the ending (and intonation) changes. Question words stay where the answer would go:
 
 - 민수가 **학교에** 가요. (Minsu goes to school.)
 - 민수가 **어디에** 가요? (Where does Minsu go?)
@@ -124,10 +120,10 @@ Here 코끼리는 is the topic of the whole sentence, and 코가 길어요 is it
 
 If the listener can work it out from context, Korean leaves it out, especially **subjects and objects**. A complete sentence can be just a predicate:
 
-- A: 밥 먹었어요? (Did [you] eat [a meal]?)
+- A: 밥 먹었어요? (Did [you] eat a meal?)
 - B: 네, 먹었어요. (Yes, [I] ate [it].)
 
-Neither "you", "I", nor "it" appears. Adding them back (**저는** 밥을 먹었어요) sounds heavy or contrastive ("*I* ate, but someone else didn't").
+A drops "you", and B drops both "I" and the object 밥. A also drops the object particle: 밥**을** → 밥, which is normal in speech. Adding them back (**저는** 밥을 먹었어요) sounds heavy or contrastive ("*I* ate, but someone else didn't").
 
 "You" in particular is avoided in polite speech. Koreans use the person's name + 씨, a title (선생님, teacher), or just drop it (see [Pronouns](./08_pronouns.md)).
 
@@ -147,7 +143,7 @@ Korean marks sentence type with the **final ending**, not with word order or pun
 
 ### Affirmative and negative
 
-As in French, positive/negative is a **form** (not a type). Korean has two ways to negate, placing 안/못 before the predicate or adding -지 않다/-지 못하다 after the stem:
+Positive/negative is a **form**, not a sentence type. Korean has two ways to negate, placing 안/못 before the predicate or adding -지 않다/-지 못하다 after the stem:
 
 - Affirmative: 저는 고기를 먹어요. (I eat meat.)
 - Negative: 저는 고기를 **안** 먹어요. / 저는 고기를 먹**지 않아요**. (I don't eat meat.)
@@ -170,7 +166,7 @@ English speakers say "No, I don't" here. In Korean that's **네**.
 | **이어진 문장**, 종속 (subordinate) | a dependent clause + main clause | 비가 와**서** 집에 있어요. (Because it's raining, I'm staying home.) |
 | **안은 문장** (embedding) | a clause placed **inside** another as a part | [내가 어제 **산**] 책이 재미있어요. (The book I bought yesterday is interesting.) |
 
-The big difference from English: clauses are joined by **connective endings** on the first predicate (-고, -지만, -아서/어서), not by separate words like "and", "but", "because". See [Connective endings](./19_connective_endings.md).
+Clauses are joined by **connective endings** on the first predicate (-고, -지만, -아서/어서), not by separate joining words. See [Connective endings](./19_connective_endings.md).
 
 An embedded clause (안긴 문장) can play any role in the bigger sentence:
 

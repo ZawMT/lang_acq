@@ -10,7 +10,7 @@ Korean school grammar sorts every word into **nine 품사 (parts of speech)**. T
 | **수식언** (modifiers) | modify another word; never change | 관형사, 부사 |
 | **독립언** (independent words) | stand apart from the sentence | 감탄사 |
 
-Only **용언** (and the particle 이다) change form (**가변어**, variable). Everything else is **불변어** (invariable), which is the reverse of French, where most classes inflect.
+Only **용언** (and the particle 이다) change form (**가변어**, variable). Everything else is **불변어** (invariable).
 
 ## 체언 — Substantives
 

@@ -116,7 +116,7 @@ These apply **across syllable boundaries**, both inside a word and between a wor
 
 ### 1. Linking (연음): 받침 moves into the next syllable
 
-If a 받침 is followed by a syllable starting with silent **ㅇ**, the 받침 slides over to fill that empty slot. This is Korean's version of French liaison, but it's **always** applied.
+If a 받침 is followed by a syllable starting with silent **ㅇ**, the 받침 slides over to fill that empty slot. This **always** applies.
 
 | Written | Pronounced |
 |---|---|
@@ -212,7 +212,7 @@ In compounds or tightly linked phrases, when the first part ends in a consonant 
 
 ## Stress and rhythm
 
-Korean has **no word stress**. No syllable in a word is reliably louder or longer, and every syllable gets roughly equal time. That's a big difference from English, and closer to French.
+Korean has **no word stress**. No syllable in a word is reliably louder or longer, and every syllable gets roughly equal time. That's a big difference from English.
 
 Pitch is set per **phrase** instead: in Seoul speech a short phrase typically rises toward its end (low … high). Speaking syllable by syllable with an English-style stress on one syllable (e.g. "한-**국**-어") is one of the most noticeable foreign accents.
 
