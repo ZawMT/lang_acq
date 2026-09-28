@@ -184,6 +184,28 @@ These **replace** 이/가 and 을/를 (and usually 은/는):
 
 With other particles they're **added after**: 학교**에서도** (at school too), 친구**한테만** (only to a friend).
 
+## (이)나: "or", "as many as"
+
+**이나** after a consonant, **나** after a vowel. It has several uses:
+
+| Use | Example |
+|---|---|
+| **or** (between nouns) | 커피**나** 차 (coffee or tea) / 빵**이나** 떡 (bread or rice cake) |
+| **...or something** (softens a suggestion) | 커피**나** 마실까요? (Shall we have a coffee or something?) |
+| **as many as**, a whole... (surprise at a large amount) | 두 시간**이나** 기다렸어요. (I waited a whole two hours.) |
+| **about** (asking for an estimate, with 몇 / 얼마) | 몇 명**이나** 왔어요? (About how many people came?) |
+| **any-** (with question words) | 누구**나** (anyone), 언제**나** (always, any time), 어디**나** (anywhere), 아무거**나** (anything) |
+
+- 주말에는 영화**나** 드라마를 봐요. (On weekends I watch movies or dramas.)
+- 심심한데 산책**이나** 할까? (I'm bored. Shall we go for a walk or something?)
+- 사과를 열 개**나** 먹었어요? (You ate ten apples?!)
+- 이 노래는 누구**나** 알아요. (Everyone knows this song.)
+- 아무거**나** 괜찮아요. (Anything is fine.)
+
+"As many as" is the opposite of **밖에** (only, below): 열 개**나** 먹었어요 (I ate ten, that's a lot) vs 한 개**밖에** 안 먹었어요 (I only ate one).
+
+To say "or" between two **clauses**, use the ending **-거나** instead: 책을 읽**거나** 쉬어요 (I read or rest). See [Connective endings](./19_connective_endings.md).
+
 ## Other useful particles
 
 | Particle | Meaning | Example |
@@ -193,7 +215,6 @@ With other particles they're **added after**: 학교**에서도** (at school too
 | **보다** | than | 동생이 저**보다** 키가 커요. (My sibling is taller than me.) |
 | **처럼 / 같이** | like, as | 아이**처럼** 웃어요. (She laughs like a child.) |
 | **마다** | every | 주말**마다** 등산해요. (I go hiking every weekend.) |
-| **(이)나** | or; as many as (surprise) | 두 시간**이나** 기다렸어요. (I waited a whole two hours.) |
 | **밖에** | only, nothing but (**needs a negative**) | 한 명**밖에** 안 왔어요. (Only one person came.) |
 | **께서 / 께서는** | honorific 이/가 / 은/는 | 아버지**께서는** 회사원이세요. (My father is an office worker.) |
 
