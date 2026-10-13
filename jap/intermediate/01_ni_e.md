@@ -174,10 +174,23 @@ The thing something is judged against or affects:
 
 #### Adding one item to another
 
-**A に B**: A together with B, used for natural pairings:
+**A に B**: A, with B added. Here に means "with" or "plus", not "to".
 
 - ケーキ**に**紅茶（こうちゃ） (cake with tea)
 - 着物（きもの）**に**下駄（げた） (a kimono with geta)
+- ご飯**に**味噌汁（みそしる） (rice with miso soup)
+
+This comes from the "onto" sense of に (机に本を置く, put a book on the desk): B is put on top of A, "A, and on top of that, B".
+
+| | Nuance | Example |
+|---|---|---|
+| A **と** B | A and B, a simple neutral list | ケーキ**と**紅茶 (cake and tea) |
+| A **に** B | A, with B added; often a **natural pairing** | ケーキ**に**紅茶 (cake, and tea to go with it) |
+
+**A に B に C**: chain it to pile items up one after another. It often suggests the list is long, or a bit much.
+
+- 卵（たまご）**に**パン**に**牛乳（ぎゅうにゅう）… (eggs, bread, milk, and so on)
+- 仕事（しごと）**に**家事（かじ）**に**育児（いくじ）で忙（いそが）しい。 (I'm busy with work, housework, and childcare.)
 
 ### Fixed expressions built on に
 
