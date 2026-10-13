@@ -204,3 +204,20 @@ These work almost like single words and come up constantly:
 | 〜**に対（たい）して** | toward, against | 客（きゃく）**に対して**丁寧（ていねい）に話す。 (speak politely to customers) |
 | 〜**によると** | according to | 天気予報（てんきよほう）**によると**、雨（あめ）だ。 (According to the forecast, it'll rain.) |
 | 〜**のために** | for (the sake of) | 家族（かぞく）**のために**働（はたら）く。 (work for my family) |
+
+## Coming down to some specific usage
+
+### "I don't know what will happen in the future": 未来に or 未来へ?
+
+Usually **neither**. The most natural versions use no particle at all, or rephrase:
+
+- 未来（みらい）のことはわからない。 (I don't know about the future.) → the most common way to say it
+- これから何（なに）が起（お）こるかわからない。 (I don't know what will happen from now on.) → very natural in conversation
+- 将来（しょうらい）何が起こるかわからない。 (I don't know what will happen in the future.) → 将来 is a time word, so no particle
+
+Why not the particles:
+
+- **未来に** marks a point in time, so 未来**に**何が起こるかわからない is grammatically fine, but it sounds stiff or bookish.
+- **未来へ** means "toward the future" (see [Where へ fits better](#where-へ-fits-better-a-heading-not-an-end-point)). It suits slogans and titles like 未来**へ**進（すす）もう (Let's move toward the future), but here nothing is moving toward anything.
+
+**Tip:** 未来 sounds abstract, like "the Future" as a concept. For your own future, 将来 or これから sounds more natural. Like other relative time words (今日, 明日, 来年), they take no に.
