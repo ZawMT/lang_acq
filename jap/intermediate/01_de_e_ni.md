@@ -1,6 +1,6 @@
-# に and へ
+# で, へ and に
 
-Both **に** and **へ** can mark where you're going, and with 行（い）く, 来（く）る, and 帰（かえ）る they're usually interchangeable. They don't picture the movement the same way, though, and only に has a large set of uses that have nothing to do with direction.
+Both **に** and **へ** can mark where you're going, and with 行（い）く, 来（く）る, and 帰（かえ）る they're usually interchangeable. They don't picture the movement the same way, though, and only に has a large set of uses that have nothing to do with direction. **で** also marks a place, but a different kind: where an action happens (see [に vs で](#に-vs-で-where-something-is-vs-where-something-happens)).
 
 **Pronunciation:** as a particle, **へ** is said **e**, not he (see [Kana](../basic/01_kana.md#three-particles-with-special-spelling)).
 
@@ -118,7 +118,40 @@ With **ある** and **いる**:
 - 公園（こうえん）**に**桜（さくら）の木（き）があります。 (There's a cherry tree in the park.)
 - 兄（あに）は大阪**に**住（す）んでいます。 (My older brother lives in Osaka.)
 
-Compare **で**, which marks where an **action** happens: 公園**で**遊（あそ）ぶ (play in the park).
+Compare **で**, which marks where an **action** happens: 公園**で**遊（あそ）ぶ (play in the park). See the next section.
+
+#### に vs で: where something is vs where something happens
+
+| Particle | Marks | Example |
+|---|---|---|
+| **で** | where an **action** happens | 図書館（としょかん）**で**勉強（べんきょう）する。 (I study at the library.) |
+| **に** | where something **exists** | 図書館**に**本がある。 (There are books in the library.) |
+| **に** | where something **ends up** | 図書館**に**行く。 (I go to the library.) |
+
+働（はたら）く (work) is an action, so it takes で:
+
+- あなたはどこ**で**働いていますか。 (Where do you work?)
+- ✗ どこ**に**働いていますか
+
+**Trap:** **住む** feels like an activity, but it takes に. Living somewhere is treated as being located there, like いる.
+
+- 東京**に**住んでいます。 (I live in Tokyo.)
+- 東京**で**働いています。 (I work in Tokyo.)
+
+To ask about someone's job with に, use **勤（つと）める** (be employed at). It's about belonging to an organization, so it takes に:
+
+- どこ**に**勤めていますか。 (Where are you employed?)
+- 銀行（ぎんこう）**に**勤めています。 (I work at a bank.)
+
+**Same verb, two places:** with one verb, に and で can mark different places.
+
+- 黒板（こくばん）**に**書く。 (write **on** the blackboard → where the writing ends up)
+- 教室（きょうしつ）**で**書く。 (write **in** the classroom → where the action happens)
+
+**Tips for the question itself:**
+
+- For someone's current job, **働いていますか** is more natural than 働きますか. 働きますか sounds like a question about the future or a habit.
+- **あなた** is usually dropped, or replaced with name + さん: 田中さんはどこで働いていますか。
 
 #### Recipient: to someone
 
@@ -203,7 +236,7 @@ These work almost like single words and come up constantly:
 | 〜**によって** | depending on; by | 人**によって**違（ちが）う。 (It differs from person to person.) |
 | 〜**に対（たい）して** | toward, against | 客（きゃく）**に対して**丁寧（ていねい）に話す。 (speak politely to customers) |
 | 〜**によると** | according to | 天気予報（てんきよほう）**によると**、雨（あめ）だ。 (According to the forecast, it'll rain.) |
-| 〜**のために** | for (the sake of) | 家族（かぞく）**のために**働（はたら）く。 (work for my family) |
+| 〜**のために** | for (the sake of) | 家族（かぞく）**のために**働く。 (work for my family) |
 
 ## Coming down to some specific usage
 
