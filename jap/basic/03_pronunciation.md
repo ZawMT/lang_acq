@@ -80,7 +80,7 @@ Most consonants are close to their romaji letter. These need attention:
 | **つ** tsu | "ts" at the start of a syllable: つなみ (tsunami) |
 | **ひ** hi | close to a soft hiss: [çi] |
 | **じ / ぢ** ji, **ず / づ** zu | sound identical (see [Kana](./01_kana.md#voiced-sounds--and-)) |
-| **g** in the middle of a word | traditionally nasal [ŋ] (かがみ → *kaŋami*); now often a plain g, especially among younger speakers |
+| **g** in the middle of a word | traditionally nasal [ŋ] (かがみ → *kaŋami*); now often a plain g, especially among younger speakers (see [Nasal g](#nasal-g-鼻濁音)) |
 | **を** | just **o** |
 
 ### The sounds of ん
@@ -96,6 +96,39 @@ Most consonants are close to their romaji letter. These need attention:
 | a vowel or y | nasal vowel, no closure | れんあい *ren'ai* (romance) |
 
 **Trap:** ん before a vowel is not linked to it. **きんえん** (*kin'en*, no smoking) is four mora: き・ん・え・ん, not *ki-ne-n*.
+
+### Nasal g (鼻濁音)
+
+In traditional standard (Tokyo) speech, the が-row (が ぎ ぐ げ ご) is sometimes said with a nasal **[ŋ]** instead of [g]. This is called **鼻濁音（びだくおん）**.
+
+[ŋ] is the "ng" in English **singer**, not in **finger**: there's no g after the nasal. It **replaces** the g; no extra n comes before it:
+
+- わたし**が** → *watashi ŋa*, still four mora: わ・た・し・が
+- *watashi n-ga* ✗ sounds like わたしんが, with an extra beat
+
+To find the sound, say "singer", then start from the "nger" part: **ŋa**.
+
+**Always [g]:**
+
+| Where | Examples |
+|---|---|
+| start of a word | **が**っこう, **ぎ**んこう, **ご**はん |
+| ご (five) in numbers | じゅう**ご** (15), さんじゅう**ご** (35) |
+| repeated half of sound words | がら**が**ら, ごろ**ご**ろ, ぎら**ぎ**ら |
+| after a prefix, or the start of the second word in a compound | お**げ**んき, にほん**ぎ**んこう (日本銀行（にほんぎんこう）) |
+| most loanwords | プロ**グ**ラム, **ゴ**ルフ |
+
+**Traditionally [ŋ], but [g] is also fine:**
+
+| Where | Examples |
+|---|---|
+| inside a word | か**が**み (mirror), か**ぎ** (key), な**が**い (long), す**ぐ** (soon) |
+| the particle が | わたし**が**, ねこ**が** |
+| g from rendaku (k → g when words join) | て**が**み (手紙（てがみ）: て + かみ), なが**ぐ**つ (長靴（ながぐつ）: なが + くつ) |
+
+[ŋ] is now used less and less, especially by younger speakers, and many regional accents (Kansai, Kyushu) never had it. NHK announcers, actors and choir singers still learn it because it sounds soft and polished. Some dictionaries mark it as か゚ き゚ く゚ け゚ こ゚.
+
+**Trap:** no position *requires* [ŋ] today, so a plain [g] everywhere is correct. The real mistake is using [ŋ] where only [g] is allowed, especially at the start of a word.
 
 ## Pitch accent (アクセント)
 
