@@ -12,7 +12,7 @@
 | **ね** | seeking agreement, shared feeling | いい天気（てんき）です**ね**。 (Nice weather, isn't it?) |
 | **よ** | telling the listener something new | この店（みせ）、おいしい**よ**。 (This place is good, you know.) |
 | **よね** | checking something you think is shared | 明日（あした）休みだ**よね**？ (Tomorrow's a day off, right?) |
-| **な / なあ** | talking to yourself, feeling | きれいだ**なあ**。 (How beautiful.) |
+| **な / なあ** | talking to yourself, feeling; casual ね (masculine) | きれいだ**なあ**。 (How beautiful.) |
 | **かな** | I wonder | 雨（あめ）、降（ふ）る**かな**。 (I wonder if it'll rain.) |
 | **の** | explanation; casual question | どこ行く**の**？ (Where are you going?) |
 | **っけ** | trying to remember | 会議（かいぎ）、何時（なんじ）だった**っけ**？ (What time was the meeting again?) |
@@ -47,12 +47,29 @@ It's used constantly and makes speech sound friendly. A stretched **ねえ** add
 
 - 田中（たなか）さんって、大阪（おおさか）出身（しゅっしん）です**よね**？ (Tanaka's from Osaka, right?)
 
-### ね vs よ
+### な: thinking out loud
 
-| ね | よ |
-|---|---|
-| the listener knows too | the listener doesn't know |
-| きれいです**ね**。 (It's pretty, isn't it?) — both looking at it | きれいです**よ**。 (It's pretty, I'm telling you.) — recommending a place |
+**な** has two uses:
+
+1. **Talking to yourself** (main use, anyone): saying what you feel, no reply expected. Often stretched to **なあ**.
+   - 寒（さむ）い**なあ**。 (Brr, it's cold...) → stepping outside alone
+   - いい**なあ**。 (Lucky you... / I wish.)
+2. **To a listener** = a casual, rougher **ね**, mostly used by men among friends.
+   - 今日（きょう）は寒い**な**。 (Cold today, huh.)
+   - また明日（あした）**な**。 (See you tomorrow.)
+
+Only in plain (casual) speech: not ~です**な** in normal conversation.
+
+**Trap:** don't confuse it with **な** after the dictionary form of a verb, which is a rough **"don't!"**: 行（い）く**な**！ (Don't go!), 触（さわ）る**な**！ (Don't touch!).
+
+### ね vs よ vs な
+
+| ね | よ | な |
+|---|---|---|
+| the listener knows too | the listener doesn't know | mainly to yourself |
+| seek agreement | tell | muse |
+| 寒いね。 (It's cold, isn't it?) | 寒いよ。 (It's cold, you know.) | 寒いなあ。 (Man, it's cold.) |
+| きれいです**ね**。 (It's pretty, isn't it?) — both looking at it | きれいです**よ**。 (It's pretty, I'm telling you.) — recommending a place | きれいだ**なあ**。 (How pretty...) — to yourself |
 
 ## Gendered speech
 
@@ -61,8 +78,8 @@ Some particles have a traditional **gender** feel. In real life, modern speech i
 | Feel | Particles | Notes |
 |---|---|---|
 | traditionally feminine | **わ** (rising), **かしら** (I wonder), **のよ**, **わね** | now often sounds old-fashioned or "fictional" |
-| traditionally masculine | **ぞ**, **ぜ**, **な** (command), **だろ** | rough; fine among friends, not polite |
-| neutral | **ね**, **よ**, **よね**, **かな**, **の?** | safe for anyone |
+| traditionally masculine | **ぞ**, **ぜ**, **な** (to a listener, = ね), **な** (don't!), **だろ** | rough; fine among friends, not polite |
+| neutral | **ね**, **よ**, **よね**, **な/なあ** (to yourself), **かな**, **の?** | safe for anyone |
 
 **Trap:** learners who pick up Japanese from anime can sound unnaturally rough (ぞ, ぜ, お前). Stick to the neutral particles.
 
